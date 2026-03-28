@@ -1,0 +1,8 @@
+----------------------------------
+Open Source Manifesto
+By: dwaj on 28 March 2026
+----------------------------------
+I use python every day because it represents the spirit of open collaboration.
+To me, freedom means creativity, and it inspires me to create without limits.
+One day, I will build ai tool and share it freely with the world.
+----------------------------------
