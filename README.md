@@ -2,8 +2,8 @@
 
 ## Student Details
 
-* Name: Abhradwip Lala
-* Roll Number: 24BAI10657
+* Name: Dwaj kumar jain
+* Roll Number: 24BCY10222
 
 ## Chosen Software
 
